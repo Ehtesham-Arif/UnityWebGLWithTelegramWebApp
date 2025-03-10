@@ -60,7 +60,7 @@
 
       //#region TON Wallet
       var tonConnectUI = new TON_CONNECT_UI.TonConnectUI({
-        manifestUrl: `https://${window.location.origin}/tonconnect-manifest.json`
+        manifestUrl: 'https://{{{ GAME_URL }}}/tonconnect-manifest.json'
       });
 
       // TWA_URL is your bot URL used by Ton wallet Back to game button.
