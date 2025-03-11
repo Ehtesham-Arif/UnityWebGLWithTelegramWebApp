@@ -1,4 +1,4 @@
-# UnityWebGLWithTelegramWebApp
+# Unity WebGL Integration with Telegram WebApp
 A sample project containing telegram integration with Unity.
 
 See Telegram.Runtime it contains everything needed for a successful integration
